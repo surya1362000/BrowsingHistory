@@ -1,0 +1,34 @@
+.main {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.logo {
+  height: 35px;
+  width: 35px;
+}
+
+.list-items {
+  display: flex;
+  flex-direction: row;
+  width: 900px;
+  align-items: center;
+}
+
+.app-logo {
+  height: 30px;
+  width: 30px;
+  margin-left: 60px;
+  margin-right: 20px;
+}
+
+.url-name {
+  color: #64748b;
+  margin-left: 15px;
+}
+
+.btn1 {
+  background-color: transparent;
+  border: none;
+}
